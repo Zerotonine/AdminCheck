@@ -1,0 +1,7 @@
+C:\Users\Phil\source\repos\IsAdmin\IsAdmin\bin\Debug\IsAdmin.exe.config
+C:\Users\Phil\source\repos\IsAdmin\IsAdmin\bin\Debug\IsAdmin.exe
+C:\Users\Phil\source\repos\IsAdmin\IsAdmin\bin\Debug\IsAdmin.pdb
+C:\Users\Phil\source\repos\IsAdmin\IsAdmin\obj\Debug\IsAdmin.csprojAssemblyReference.cache
+C:\Users\Phil\source\repos\IsAdmin\IsAdmin\obj\Debug\IsAdmin.csproj.CoreCompileInputs.cache
+C:\Users\Phil\source\repos\IsAdmin\IsAdmin\obj\Debug\IsAdmin.exe
+C:\Users\Phil\source\repos\IsAdmin\IsAdmin\obj\Debug\IsAdmin.pdb
